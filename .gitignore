@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+*.egg
+
+# Node (parity check scratch)
+node_modules/
+package-lock.json
+
+# Editor
+.vscode/
+.idea/
